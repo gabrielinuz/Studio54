@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wextra -Wpedantic -Werror -I.\include src\AppFlow.cpp src\GuestManager.cpp src\Utils.cpp src\main.cpp -o studio54.app
